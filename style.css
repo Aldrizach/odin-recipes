@@ -1,0 +1,50 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(176, 168, 203);
+    color: rgb(43, 40, 50);
+}
+
+h1{
+    background-color: rgb(133, 87, 34);
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.rajma{
+    background-color: rgb(169, 136, 136);
+    color: rgb(51, 45, 45);
+}
+
+.pizza{
+    background-color: rgb(164, 188, 161);
+    color: rgb(55, 62, 55);
+}
+
+.chick{
+    background-color: rgb(210, 215, 181);
+    color: rgb(50, 44, 38);
+}
+
+.ingre{
+    font-weight: 500;
+    font-size: 17px;
+    font-style: italic;
+}
+
+.steps{
+    font-weight: 600;
+    font-size: 17px;
+}
+
+.image{
+    height: 60px;
+    width: auto;
+}
+
+.font{
+    font-size: 30px;
+    text-align: center;
+    
+}
