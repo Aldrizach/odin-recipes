@@ -41,10 +41,15 @@ h1{
 .image{
     height: 60px;
     width: auto;
+    vertical-align: middle;
 }
 
 .font{
     font-size: 30px;
     text-align: center;
-    
+    display: table-cell;
+    width: 1200px;
+    max-width: 33%;
 }
+
+
